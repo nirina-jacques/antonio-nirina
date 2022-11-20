@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @antonio-nirina
-- 👀 I’m interested in functional programing,...
+- 👀 I’m interested in functional programing,everything related to software programming.
 - 🌱 I’m currently learning new langage like Scala.
 
 <!---
