@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antonio-nirina
+- 👋 Hi, I’m @Nirina Jacques
 - 👀 I’m interested in functional programing,everything related to software programming.
 - 🌱 I’m currently learning new langage like Rust...
 
